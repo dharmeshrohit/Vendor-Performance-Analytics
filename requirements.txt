@@ -1,2 +1,6 @@
 pandas
 sqlalchemy
+numpy
+matplotlib
+seaborn
+scipy
