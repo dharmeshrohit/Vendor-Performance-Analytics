@@ -4,6 +4,8 @@ Vendor Performance Analytics is a comprehensive data analysis project designed t
 
 Data size: 2GB
 
+Vendor Performance Analysis Report: [here](docs/Vendor%20Performance%20Report.pdf)
+
 Vendor Performamce Analysis Dashboard: [here](docs/vendor_performance.pbix)
 
 Cleaned & Aggregated data: [here](docs/vendor_sales_summary.xlsx)
